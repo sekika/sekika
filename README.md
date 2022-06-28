@@ -1,6 +1,7 @@
 ### 🔭 My free software
 Soil physics:
-- [Unsatfit](https://sekika.github.io/unsatfit/) - Python library for optimizing parameters of functions of soil hydraulic properties. [SWRC Fit](https://seki.webmasters.gr.jp/swrc/) is a web interface for fitting soil water retention curve used in [many researches](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gs_ABawAAAAJ&citation_for_view=Gs_ABawAAAAJ:9yKSN-GCB0IC).
+- [SWRC Fit](https://seki.webmasters.gr.jp/swrc/) is a web interface for fitting soil water retention curve used in [many researches](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gs_ABawAAAAJ&citation_for_view=Gs_ABawAAAAJ:9yKSN-GCB0IC).
+- [Unsatfit](https://sekika.github.io/unsatfit/) - Python library for optimizing parameters of functions of soil hydraulic properties. SWRC Fit uses unsatfit, and unsatfit also fits unsaturated hydraulic conductivity.
 - [EC fit](https://seki.webmasters.gr.jp/ecfit/) - fit soil water and electrical conductivity (EC) model to measured data.
 - [Discfit](https://github.com/sekika/discfit) - Disc permeameter fitting program
 
