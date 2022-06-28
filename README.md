@@ -13,7 +13,7 @@
 - [15 Puzzle](https://sekika.github.io/2020/01/14/15Puzzle/) ([15パズル](https://sekika.github.io/2020/01/17/15Puzzle/)) - online player of a sliding puzzle. The size of the puzzle can be changed to (3, 8, 15, 24, 35, ...) puzzles.
 
 #### JavaScript
-- [List of miscellaneous JavaScript programs](https://sekika.github.io/tags/javascript/index.html) - written in Japanese
+- [JavaScript のちょっとしたプログラム](https://sekika.github.io/tags/javascript/index.html) - written in Japanese
 
 ### 📫 How to reach me
 - If you find bugs or issues, send an issue to each repository.
