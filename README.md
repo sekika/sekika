@@ -17,7 +17,7 @@
 
 ## 🌱 Non-IT stuffs
 - [Academic CV](https://researchmap.jp/sekik/)
-- [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html)
+- [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html) - [YouTubeの解説](https://www.youtube.com/watch?v=YOUZliAOYvI)
 
 ## 📫 How to reach me
 - If you find bugs or issues, send an issue to each repository.
