@@ -7,7 +7,7 @@
 - [Discfit](https://github.com/sekika/discfit) - Disc permeameter fitting program
 
 ### Security (セキュリティ)
-- [Passme](https://github.com/sekika/passme/blob/master/doc/README.rst) - a password management tool with command line or web browzer. [Tutorial movie](https://github.com/sekika/passme/blob/master/doc/README.rst#:~:text=https%3A//youtu.be/6DXPhyYhYsE).
+- [Passme](https://github.com/sekika/passme/blob/master/doc/README.rst) - a password management tool with command line or web browzer. [Tutorial movie](https://youtu.be/6DXPhyYhYsE).
 
 ### Puzzle (パズル)
 - [Kaidoku](https://sekika.github.io/kaidoku/)　([解独](https://sekika.github.io/kaidoku/ja/)) - solve, play and create sudoku puzzles (ナンプレ) with a command-line interface. It shows [logics](https://sekika.github.io/kaidoku/logic) for solving a puzzle. [Online player](https://sekika.github.io/kaidoku/sudoku) and [PDF books](https://sekika.github.io/kaidoku/book) are also available.
