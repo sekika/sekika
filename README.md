@@ -15,6 +15,10 @@
 #### JavaScript
 - [JavaScript のちょっとしたプログラム](https://sekika.github.io/tags/javascript/index.html) - written in Japanese
 
+### 🌱 Non-IT stuff
+- [Academic CV](https://researchmap.jp/sekik/)
+- [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html)
+
 ### 📫 How to reach me
 - If you find bugs or issues, send an issue to each repository.
 - Please find my email address in [this paper](https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20168).
