@@ -11,11 +11,11 @@ Puzzle:
 - [Kaidoku](https://sekika.github.io/kaidoku/) - solve sudoku puzzles as shown in the figure, play with the puzzles and create sudoku puzzles with a command-line interface. [Online player](https://sekika.github.io/kaidoku/sudoku) and [PDF book](https://sekika.github.io/kaidoku/book) are also available.
 - [15 Puzzle](https://sekika.github.io/2020/01/14/15Puzzle/) - online player of a sliding puzzle. The size of the puzzle can be changed to (3, 8, 15, 24, 35, ...) puzzles.
 
-### 📫 How to reach me
-- Please find my email address in [this paper](https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20168).
-
 Javascript:
 - [List of miscellaneous Javascript programs](https://sekika.github.io/tags/javascript/index.html) - written in Japanese
+
+### 📫 How to reach me
+- Please find my email address in [this paper](https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20168).
 
 <!--
 **sekika/sekika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile written in Python.
