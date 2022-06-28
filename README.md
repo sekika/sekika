@@ -21,6 +21,7 @@
 - [Photos with Moomin family](https://seki.webmasters.gr.jp/photo/moomin2011/)
 - [YouTube videos](https://www.youtube.com/channel/UCcrzhK0Uy9b4tWf1uhbWN-Q/videos)
 - [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html) - [YouTubeの解説](https://www.youtube.com/watch?v=YOUZliAOYvI)
+- [ケトルベルのログ](https://twitter.com/seki/status/1243158979431153664)
 
 ## 📫 How to reach me
 - If you find bugs or issues, send an issue to each repository.
