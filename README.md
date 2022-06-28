@@ -9,7 +9,7 @@ Security:
 - [Passme](https://github.com/sekika/passme/blob/master/doc/README.rst) - a password management tool with command line or web browzer.
 
 Puzzle:
-- [Kaidoku](https://sekika.github.io/kaidoku/) - solve sudoku puzzles as shown in the figure, play with the puzzles and create sudoku puzzles with a command-line interface. [Online player](https://sekika.github.io/kaidoku/sudoku) and [PDF book](https://sekika.github.io/kaidoku/book) are also available.
+- [Kaidoku](https://sekika.github.io/kaidoku/) - solve, play and create sudoku puzzles with a command-line interface. [Online player](https://sekika.github.io/kaidoku/sudoku) and [PDF book](https://sekika.github.io/kaidoku/book) are also available.
 - [15 Puzzle](https://sekika.github.io/2020/01/14/15Puzzle/) - online player of a sliding puzzle. The size of the puzzle can be changed to (3, 8, 15, 24, 35, ...) puzzles.
 
 Javascript:
