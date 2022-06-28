@@ -15,7 +15,7 @@
 ### JavaScript
 - [JavaScript のちょっとしたプログラム](https://sekika.github.io/tags/javascript/index.html) - written in Japanese
 
-## 🌱 Non-IT stuff
+## 🌱 Non-IT stuffs
 - [Academic CV](https://researchmap.jp/sekik/)
 - [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html)
 
