@@ -22,8 +22,9 @@
 - [Academic CV](https://researchmap.jp/sekik/) and [most cited papers](https://scholar.google.com/citations?user=Gs_ABawAAAAJ)
 - [Photos with Moomin family](https://seki.webmasters.gr.jp/photo/moomin2011/)
 - [YouTube videos](https://www.youtube.com/channel/UCcrzhK0Uy9b4tWf1uhbWN-Q/videos)
-- [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html) - [YouTubeの解説](https://www.youtube.com/watch?v=YOUZliAOYvI)
 - [ケトルベルのログ](https://twitter.com/seki/status/1243158979431153664)
+- [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html) - [YouTubeの解説](https://www.youtube.com/watch?v=YOUZliAOYvI)
+<img src="https://shogipic.jp/v/11b3@3x.png" width="360" height="270">
 
 ## 📫 How to reach me
 - If you like my software, I always welcome your feedback by mentioning me at [twitter](https://twitter.com/seki) in English or Japanese.
