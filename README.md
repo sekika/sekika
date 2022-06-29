@@ -5,6 +5,7 @@
 - [Unsatfit](https://sekika.github.io/unsatfit/) - Python library for optimizing parameters of functions of soil hydraulic properties. SWRC Fit uses unsatfit, and unsatfit also fits unsaturated hydraulic conductivity.
 - [EC fit](https://seki.webmasters.gr.jp/ecfit/) - fit soil water and electrical conductivity (EC) model to measured data.
 - [Discfit](https://github.com/sekika/discfit) - Disc permeameter fitting program
+- Recommendation: [お薦め](https://www.jstage.jst.go.jp/article/jssoilphysics/148/0/148_45/_article/-char/ja/)していただきました。
 
 ### Security (セキュリティ)
 - [Passme](https://github.com/sekika/passme/blob/master/doc/README.rst) - a password management tool with command line or web browzer. [Tutorial movie](https://youtu.be/6DXPhyYhYsE).
