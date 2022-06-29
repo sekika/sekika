@@ -26,7 +26,7 @@
 - [ケトルベルのログ](https://twitter.com/seki/status/1243158979431153664)
 
 ## 📫 How to reach me
-- If you find bugs or issues, send an issue to each repository.
+- If you like my software, I always welcome your feedback by mentioning me at [twitter](https://twitter.com/seki) in English or Japanese.
 - Please find my email address in [this paper](https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20168).
 
 <!--
