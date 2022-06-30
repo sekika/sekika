@@ -2,7 +2,7 @@
 I develop programs for work (research on soil physics) and for fun. Here you can find some of my published programs. [Python packages](https://pypi.org/user/seki/) are also released.
 
 ### Puzzle (パズル)
-- [Kaidoku](https://sekika.github.io/kaidoku/)　([解独](https://sekika.github.io/kaidoku/ja/)) - solve, play and create sudoku puzzles (ナンプレ) with a command-line interface. It shows [logics](https://sekika.github.io/kaidoku/logic) for solving a puzzle. [Online player](https://sekika.github.io/kaidoku/sudoku) and [PDF books](https://sekika.github.io/kaidoku/book) are also available.
+- [Kaidoku](https://sekika.github.io/kaidoku/) ([解独](https://sekika.github.io/kaidoku/ja/)) - solve, play and create sudoku puzzles (ナンプレ) with a command-line interface. It shows [logics](https://sekika.github.io/kaidoku/logic) for solving a puzzle. [Online player](https://sekika.github.io/kaidoku/sudoku) and [PDF books](https://sekika.github.io/kaidoku/book) are also available.
 - [15 Puzzle](https://sekika.github.io/2020/01/14/15Puzzle/) ([15パズル](https://sekika.github.io/2020/01/17/15Puzzle/)) - online player of a sliding puzzle. The size of the puzzle can be changed to 3, 8, 15, 24, 35, ...
 [![kaidoku](https://sekika.github.io/kaidoku/img/3-1.jpg)](https://sekika.github.io/kaidoku/)
 [![15 puzzle](15.png)](https://sekika.github.io/2020/01/14/15Puzzle/)
