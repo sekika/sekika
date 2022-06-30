@@ -17,8 +17,9 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 ### Security (セキュリティ)
 - [Passme](https://github.com/sekika/passme/blob/master/doc/README.rst) - a password management tool with command line or web browzer. [Tutorial movie](https://youtu.be/6DXPhyYhYsE).
 
-### JavaScript
-- [JavaScript のちょっとしたプログラム](https://sekika.github.io/tags/javascript/index.html) - written in Japanese
+### その他
+- [JavaScript の小物](https://sekika.github.io/tags/javascript/index.html)
+- [Python の小物](https://sekika.github.io/tags/python/index.html)
 
 ## 🌱 Non-IT stuffs
 - [Academic CV](https://researchmap.jp/sekik/) and [most cited papers](https://scholar.google.com/citations?user=Gs_ABawAAAAJ)
