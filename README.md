@@ -1,5 +1,5 @@
 ## 🔭 My free software (自作プログラム)
-I develop programs for work (soil physics) and for fun. As I mainly use Python recently, [Python packages](https://pypi.org/user/seki/) are published.
+I develop programs for work (research on soil physics) and for fun. As I mainly use Python recently, [Python packages](https://pypi.org/user/seki/) are published.
 
 ### Soil physics (土壌物理学)
 - [SWRC Fit](https://seki.webmasters.gr.jp/swrc/) - a web interface for fitting [soil water retention curve](https://en.wikipedia.org/wiki/Water_retention_curve) used in [many researches](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gs_ABawAAAAJ&citation_for_view=Gs_ABawAAAAJ:9yKSN-GCB0IC).
