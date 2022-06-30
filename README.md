@@ -1,5 +1,5 @@
 ## 🔭 My free software (自作プログラム)
-I develop programs for work (research on soil physics) and for fun. Here you can find some of my programs. [Python packages](https://pypi.org/user/seki/) are also released.
+I develop programs for work (research on soil physics) and for fun. Here you can find some of my published programs. [Python packages](https://pypi.org/user/seki/) are also released.
 
 ### Puzzle (パズル)
 - [Kaidoku](https://sekika.github.io/kaidoku/)　([解独](https://sekika.github.io/kaidoku/ja/)) - solve, play and create sudoku puzzles (ナンプレ) with a command-line interface. It shows [logics](https://sekika.github.io/kaidoku/logic) for solving a puzzle. [Online player](https://sekika.github.io/kaidoku/sudoku) and [PDF books](https://sekika.github.io/kaidoku/book) are also available.
