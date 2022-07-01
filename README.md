@@ -10,7 +10,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 [![15 puzzle](15.png)](https://sekika.github.io/2020/01/14/15Puzzle/)
 
 ### Soil physics (土壌物理学)
-- [SWRC Fit](https://seki.webmasters.gr.jp/swrc/) - a web interface for fitting [soil water retention curve](https://en.wikipedia.org/wiki/Water_retention_curve) used in [many researches](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gs_ABawAAAAJ&citation_for_view=Gs_ABawAAAAJ:9yKSN-GCB0IC).
+- [SWRC Fit](https://seki.webmasters.gr.jp/swrc/) - a web interface for fitting [soil water retention curve](https://en.wikipedia.org/wiki/Water_retention_curve) used in [many researches](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gs_ABawAAAAJ&citation_for_view=Gs_ABawAAAAJ:9yKSN-GCB0IC).<br>[<img src="https://seki.webmasters.gr.jp/swrc/img/1015.png" width="180">](https://seki.webmasters.gr.jp/swrc/)
 - [Unsatfit](https://sekika.github.io/unsatfit/) - Python library for optimizing parameters of functions of soil hydraulic properties. SWRC Fit uses unsatfit, and unsatfit also fits unsaturated hydraulic conductivity.
 - [EC fit](https://seki.webmasters.gr.jp/ecfit/) - fit soil water and electrical conductivity (EC) model to measured data.
 - [Discfit](https://github.com/sekika/discfit) - read disc permeameter data in the field and calculates hydraulic parameters of the soil.
