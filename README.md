@@ -27,10 +27,10 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [YouTube videos](https://www.youtube.com/channel/UCcrzhK0Uy9b4tWf1uhbWN-Q/videos)
 - [メモ帳](https://sekika.github.io)
 - [ケトルベルのログ<br>![ケトルベル](https://pbs.twimg.com/profile_banners/3842711/1643460988/300x100)](https://twitter.com/seki/status/1243158979431153664)
-- [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html) - [YouTubeの解説](https://www.youtube.com/watch?v=YOUZliAOYvI)
+- [詰将棋](https://seki.webmasters.gr.jp/shogi/tume/index.html)
 
-![3手詰め](https://shogipic.jp/v/11b3.png)
-![3手詰め](https://shogipic.jp/v/FfT.png)
+[![3手詰め](https://shogipic.jp/v/11b3.png)](https://seki.webmasters.gr.jp/shogi/tume/tume-a3.htm)
+[![3手詰め](https://shogipic.jp/v/FfT.png)](https://seki.webmasters.gr.jp/shogi/tume/tume-a4.htm)
 
 ## 📫 How to reach me
 - If you like my software, I always welcome your feedback by mentioning me at [twitter](https://twitter.com/seki) in English or Japanese.
