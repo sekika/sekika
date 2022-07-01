@@ -23,7 +23,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 
 ## 🌱 Non-IT stuffs
 - [Academic CV](https://researchmap.jp/sekik/) and [most cited papers](https://scholar.google.com/citations?user=Gs_ABawAAAAJ)
-- [Photos with Moomin family<br>![moomin](moomin.jpg)](https://seki.webmasters.gr.jp/photo/moomin2011/)
+- [Photos with Moomin family<br><img src="moomin.jpg" width="150">](https://seki.webmasters.gr.jp/photo/moomin2011/)
 - [YouTube videos](https://www.youtube.com/channel/UCcrzhK0Uy9b4tWf1uhbWN-Q/videos)
 - [メモ帳](https://sekika.github.io)
 - [ケトルベルのログ<br>![ケトルベル](https://pbs.twimg.com/profile_banners/3842711/1643460988/300x100)](https://twitter.com/seki/status/1243158979431153664)
