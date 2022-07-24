@@ -11,7 +11,7 @@
 - １ヶ月ほどでTGUは[できるようになった](https://twitter.com/seki/status/1253634681028767745)ものの、不安定な状態だった。
 - ２ヶ月ほどで12kgのシンプルプログラムが[できるようになった](https://twitter.com/seki/status/1259775785809764354)。
 - [近所の公園](https://twitter.com/seki/status/1266666080744820742)では水道でケトルベルを洗って帰れるので便利。時々外で振る。
-- 16kgのケトルベルを[購入](https://twitter.com/seki/status/1265545766849916929)した。[伊藤鉉鋳工所](https://twitter.com/hskettlebell)製。
+- 16kgのケトルベルを[購入](https://twitter.com/seki/status/1265545766849916929)した。三重県桑名市の鋳造会社、[伊藤鉉鋳工所](https://twitter.com/hskettlebell)製。
 - ３ヶ月ほどで16kgのTGUが[できるようになった](https://twitter.com/seki/status/1275362620313198592)。シンプルプログラムの通りに、12kg,16kg,12kg,12kg,12kgの順番でのセットに入った。
 - 12,16,12,12,12kgのサイクルを半年ほど続けて、TGU16kgのフォームが安定して無理なくできるようになってきたため12,16,16,12,12kgのサイクルへと[移行した](https://twitter.com/seki/status/1338460387847487488)。
 - その後２ヶ月半でシンプルプログラム16kgへ[完全に移行した](https://twitter.com/seki/status/1366350945542578177)。
