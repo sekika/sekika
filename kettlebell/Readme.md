@@ -23,6 +23,6 @@
 - [1年と9ヶ月後](https://twitter.com/seki/status/1470332165485641730)、スイングは16,24,16,16,16kg、24kg片手スイングはクリーンに変える、ゲットアップは16kgのみのみというパターンとする。
 - [1年と10ヶ月後](https://twitter.com/seki/status/1485550532731506689)、スイングは16,24,16,16,16kg、ゲットアップは16kgのみのみというパターンとする。ただし、24kg片手スイングはしっかりと振れていない。特に左手が弱い。
 - 24kgハーフゲットアップ、[右手はできた](https://twitter.com/seki/status/1504449051218960394)が左手はできない。
-- [2年経過](https://twitter.com/seki/status/1504765385232764935)
+- ケトルベル開始から[2年経過](https://twitter.com/seki/status/1504765385232764935)
 - [メイスの導入](https://twitter.com/seki/status/1546441520949374976)、シンプルプログラムのウォームアップでハローのかわりに[360](https://youtu.be/5UYSyKXGmk0)をすることとする。
 - 補助運動として[インディアンクラブ](https://twitter.com/seki/status/1551128186045734914)を開始。[テキスト](https://www.amazon.co.jp/dp/B01NBP5UXR)と[動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)。
