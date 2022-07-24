@@ -8,7 +8,7 @@
 - [Pavel Tsatsouline](https://en.wikipedia.org/wiki/Pavel_Tsatsouline) の Enter the Kettlebell! をKindleで読んで、即日に12kgのケトルベルを[発注](https://twitter.com/seki/status/1352957472625975297)。翌日にはPavelの[Kettlebell Simple & Sinister](https://www.amazon.co.jp/gp/product/B07ZQKWMKR)を読んで、しばらくはこの本に書かれているシンプルプログラム一本でやってみようと考えて、ケトルベルを[始めた](https://twitter.com/seki/status/1243158979431153664)。3月18日ケトルベル到着。
 - シンプルプログラムは、両手スイングまたは片手スイング10回とTGU（ターキッシュ・ゲットアップ）左右1回ずつの組み合わせを5セット、合計でスイング100回、TGU10回を週5〜6回する。開始重量は、男性は16kg、女性は12kgが標準とされているが、体力のあるロシア人・アメリカ人基準なので、体力に自信がなければ日本人は男性12kg、女性8kgからはじめるのが無難。重さは、「中」重量から「重」重量へ上げる時に、５セットの順番を中中中中中から始め、たとえば１ヶ月ごとに中重中中中、中重重中中、中重重重中、中重重重重、重重重重重、のように段階的に上げることで移行する。移行が完了すると「重」重量は「中」重量となり、次の「重」重量を目指す。16→24→32kgのように8kgずつ上げるのが基本だが、4kgきざみで上げても良い。32kgまでがシンプルプログラム、48kgまでがシニスタープログラム。ウォームアップはハロー、ゴブレット・スクワット等。詳細は[Pavelの本](https://www.amazon.co.jp/gp/product/B07ZQKWMKR)参照。
 - 最初は12kgのベルを頭上に持ち上げた状態で保持するだけで精一杯で手首も痛くなる状態だった。２週間ほどすると、手首の痛みはなくなった。
-- １ヶ月ほどでTGUは[できるようになった](https://twitter.com/seki/status/1253634681028767745)ものの、不安定な状態だった。
+- １ヶ月ほどでTGUは[できるようになった](https://twitter.com/seki/status/1253634681028767745)ものの、不安定な状態だった。TGUはPavelの本だけでなく[この動画](https://youtu.be/NpRbsl6A7ys)が役立った。
 - ２ヶ月ほどで12kgのシンプルプログラムが[できるようになった](https://twitter.com/seki/status/1259775785809764354)。
 - [近所の公園](https://twitter.com/seki/status/1266666080744820742)では水道でケトルベルを洗って帰れるので便利。時々外で振る。
 - 16kgのケトルベルを[購入](https://twitter.com/seki/status/1265545766849916929)した。三重県桑名市の鋳造会社、[伊藤鉉鋳工所](https://twitter.com/hskettlebell)製。
