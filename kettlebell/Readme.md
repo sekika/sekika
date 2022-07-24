@@ -1,6 +1,7 @@
 # ケトルベル
+[関](https://github.com/sekika)のケトルベルトレーニングの記録です。写真は左から24,16,12,8,5kg。
 
-[関](https://github.com/sekika)のケトルベルトレーニングの記録です。
+<img src="https://pbs.twimg.com/profile_banners/3842711/1643460988/600x200">
 
 - 2020年の春、コロナでスポーツジムが閉鎖される中、自宅での巣篭もり生活での運動不足を解消されるための方策を模索する。
 - Pavel Tsatsouline の Enter the Kettlebell! を読んで、即日に12kgのケトルベルを[発注](https://twitter.com/seki/status/1352957472625975297)。翌日にはPavelの[Kettlebell Simple & Sinister](https://www.amazon.co.jp/gp/product/B07ZQKWMKR)本を読んで、しばらくはこれ一本でやってみようと考えて、ケトルベルを[始めた](https://twitter.com/seki/status/1243158979431153664)。
