@@ -4,7 +4,7 @@
 <img src="https://pbs.twimg.com/profile_banners/3842711/1643460988/600x200">
 
 - 2020年の春、コロナでスポーツジムが閉鎖される中、自宅での巣篭もり生活での運動不足を解消するための方策を検討する。
-- [Pavel Tsatsouline](https://en.wikipedia.org/wiki/Pavel_Tsatsouline) の Enter the Kettlebell! を読んで、即日に12kgのケトルベルを[発注](https://twitter.com/seki/status/1352957472625975297)。翌日にはPavelの[Kettlebell Simple & Sinister](https://www.amazon.co.jp/gp/product/B07ZQKWMKR)本を読んで、しばらくはこれ一本でやってみようと考えて、ケトルベルを[始めた](https://twitter.com/seki/status/1243158979431153664)。
+- [Pavel Tsatsouline](https://en.wikipedia.org/wiki/Pavel_Tsatsouline) の Enter the Kettlebell! を読んで、即日に12kgのケトルベルを[発注](https://twitter.com/seki/status/1352957472625975297)。翌日にはPavelの[Kettlebell Simple & Sinister](https://www.amazon.co.jp/gp/product/B07ZQKWMKR)本を読んで、しばらくはこの本に書かれているシンプルプログラム一本でやってみようと考えて、ケトルベルを[始めた](https://twitter.com/seki/status/1243158979431153664)。
 - 最初は12kgのベルを頭上に持ち上げた状態で保持するだけで精一杯で手首も痛くなる状態だった。２週間ほどすると、手首の痛みはなくなった。
 - １ヶ月ほどでTGU（ターキッシュ・ゲットアップ）は[できるようになった](https://twitter.com/seki/status/1253634681028767745)ものの、不安定な状態だった。
 - ２ヶ月ほどで12kgのシンプルプログラム（スイング10x10、ゲットアップ左右5）が[できるようになった](https://twitter.com/seki/status/1259775785809764354)。週5〜6回のシンプルプログラムを開始。
