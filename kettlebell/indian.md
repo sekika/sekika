@@ -17,6 +17,8 @@
 ## バックサークル BC
 - BC右
 - BC左
+- BC逆右
+- BC逆左
 - 5 - FCBC右
 - 6 - FCBC左
 - 45 - FC逆BC逆右
