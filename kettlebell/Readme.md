@@ -26,4 +26,4 @@
 - 24kgハーフゲットアップ、[右手はできた](https://twitter.com/seki/status/1504449051218960394)が左手はできない。ときどき24kgのハーフゲットアップをチャレンジしている。
 - ケトルベル開始から[2年経過](https://twitter.com/seki/status/1504765385232764935)
 - [3kgメイスの導入](https://twitter.com/seki/status/1546441520949374976)、シンプルプログラムのウォームアップでハローのかわりに[360](https://youtu.be/5UYSyKXGmk0)をすることとする。
-- 補助運動として[インディアンクラブ](indian.md)を[開始](https://twitter.com/seki/status/1551128186045734914)。重さは２ポンド。[テキスト](https://www.amazon.co.jp/dp/B01NBP5UXR)と[動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)。まずはテキスト1章の基本動作（フロントサークル、バックサークル、サイドリストサークル、フロントリストサークルとそれぞれの逆回転）を習熟する。天井にぶつかるフロントサークルは外で、それ以外は部屋の中で窓の反射を見ながら。
+- 補助運動として[インディアンクラブを開始](https://twitter.com/seki/status/1551128186045734914)。重さは２ポンド。[テキスト](https://www.amazon.co.jp/dp/B01NBP5UXR)と[動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)。まずは[ルメール法](indian.md)の基本動作（フロントサークル、バックサークル、サイドリストサークル、フロントリストサークルとそれぞれの逆回転）を習熟する。天井にぶつかるフロントサークルは外で、それ以外は部屋の中で窓の反射を見ながら。
