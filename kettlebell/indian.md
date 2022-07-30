@@ -1,6 +1,6 @@
 # インディアンクラブ
 
-[ルメール法](https://www.amazon.co.jp/dp/B01NBP5UXR)のまとめ。[ルメール法の解説動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF)と[インディアンクラブの模範動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)。
+[ルメール法](https://www.amazon.co.jp/dp/B01NBP5UXR)のまとめ。参考:[ルメール法の解説動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF)と[インディアンクラブの模範動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)。
 
 ## フロントサークル FC
 - 1 - FC右
