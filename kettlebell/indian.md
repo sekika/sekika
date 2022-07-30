@@ -1,6 +1,6 @@
 # インディアンクラブ
 
-インディアンクラブエクササイズのメモ
+[ルメール法](https://www.amazon.co.jp/dp/B01NBP5UXR)のまとめ。[動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF)。
 
 ## フロントサークル FC
 - 1 - FC右
