@@ -81,3 +81,7 @@
 - 18 - FCBCSW左
 - 57 - FC逆SW逆BC逆右
 - 58 - FC逆SW逆BC逆左
+- 19 - FC2BC2SW2右
+- 20 - FC2BC2SW2左
+- 59 - FC逆2SW逆2BC逆2右
+- 60 - FC逆2SW逆2BC逆2左
