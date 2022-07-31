@@ -47,8 +47,15 @@
 ## フロントリストサークル FW
 - 21 - FW右
 - 22 - FW左
+- 61 - FW逆右
+- 62 - FW逆左
 - 23 - FCFWBC右
 - 24 - FCFWBC左
+- 63 - FC逆FW逆BC右
+- 64 - FC逆FW逆BC左
 - 25 - FC2FW2BC2右
 - 26 - FC2FW2BC2左
-- 36 - FC右FW左FC左FW右
+- 65 - FC逆2FW逆2BC逆2右
+- 66 - FC逆2FW逆2BC逆2左
+- 36 - FC右FW左、FC左FW右
+- 76 - FC逆右FW逆左、FC逆左FW逆右
