@@ -63,11 +63,21 @@
 - 62 - FW逆左
 - 23 - FCFWBC右
 - 24 - FCFWBC左
-- 63 - FC逆FW逆BC右
-- 64 - FC逆FW逆BC左
+- 63 - FC逆BC逆FW逆右
+- 64 - FC逆BC逆FW逆左
 - 25 - FC2FW2BC2右
 - 26 - FC2FW2BC2左
 - 65 - FC逆2FW逆2BC逆2右
 - 66 - FC逆2FW逆2BC逆2左
 - 36 - FC右FW左、FC左FW右
 - 76 - FC逆右FW逆左、FC逆左FW逆右
+
+## サイドリストサークル SW
+- 15 - SW右
+- 16 - SW左
+- 55 - SW逆右
+- 56 - SW逆左
+- 17 - FCBCSW右
+- 18 - FCBCSW左
+- 57 - FC逆SW逆BC逆右
+- 58 - FC逆SW逆BC逆左
