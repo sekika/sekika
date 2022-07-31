@@ -52,5 +52,3 @@
 - 25 - FC2FW2BC2右
 - 26 - FC2FW2BC2左
 - 36 - FC右FW左FC左FW右
-
-- 14 - FC2左右、FC2右BC左、FC2左右、FC2左BC右hいだ
