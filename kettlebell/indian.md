@@ -44,3 +44,13 @@
 - 85 - FC左順右逆BC左順右逆
 - 86 - FC左順右逆2BC左順右逆2
 
+## フロントリストサークル FW
+- 21 - FW右
+- 22 - FW左
+- 23 - FCFWBC右
+- 24 - FCFWBC左
+- 25 - FC2FW2BC2右
+- 26 - FC2FW2BC2左
+- 36 - FC右FW左FC左FW右
+
+- 14 - FC2左右、FC2右BC左、FC2左右、FC2左BC右hいだ
