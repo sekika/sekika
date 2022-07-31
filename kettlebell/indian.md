@@ -51,7 +51,8 @@
 - 116 - FC逆右BC左、FC左BC逆右
 - 117 - FC逆左BC右、BC逆左BC右
 - 118 - FC逆右BC左、BC逆右BC左
-- 119 - FC右BC逆左、BC逆BC逆左
+- 119 - FC右BC逆左、BC右BC逆左
+- 120 - FC左BC逆右、BC左BC逆右
 
 ## フロントリストサークル FW
 - 21 - FW右
