@@ -1,6 +1,6 @@
 # ルメール法
 
-インディアンクラブのルメール法 ([Lemaire, E. Ferdinand, 1889](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)) のまとめ。
+[インディアンクラブ](https://en.wikipedia.org/wiki/Indian_club)のルメール法 ([Lemaire, E. Ferdinand, 1889](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)) のまとめ。
 
 - [原著全文](https://archive.org/details/indianclubshowto00lemaiala/)
 - [Kindle 再販](https://www.amazon.co.jp/dp/B01NBP5UXR)
