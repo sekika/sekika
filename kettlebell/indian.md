@@ -1,11 +1,11 @@
-# インディアンクラブ
+# ルメール法
 
-ルメール法 (Lemaire, E. Ferdinand (1889)[ Indian clubs and how to use them](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)) のまとめ。
+インディアンクラブのルメール法 (Lemaire, E. Ferdinand (1889)[ Indian clubs and how to use them](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)) のまとめ。
 
 - [原著全文](https://archive.org/details/indianclubshowto00lemaiala/)
 - [Kindle 再販](https://www.amazon.co.jp/dp/B01NBP5UXR)
 - [ルメール法の解説動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF)
-- 参考: [インディアンクラブの模範動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)。
+- [参考動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)
 
 ## フロントサークル FC
 - 1 - FC右
