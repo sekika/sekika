@@ -1,6 +1,6 @@
 # ルメール法
 
-<img src="/sekika/sekika/raw/main/kettlebell/indian.jpg" width="200">
+<img src="indian.jpg" width="200">
 
 [インディアンクラブ](https://en.wikipedia.org/wiki/Indian_club)のルメール法 ([Lemaire, 1889](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)) のまとめ。
 
