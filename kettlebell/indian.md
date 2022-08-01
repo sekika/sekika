@@ -1,6 +1,6 @@
 # インディアンクラブ
 
-[ルメール法](https://www.amazon.co.jp/dp/B01NBP5UXR)のまとめ。参考:[オリジナル文献](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)と[ルメール法の解説動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF)と[インディアンクラブの模範動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)。
+[ルメール法](https://www.amazon.co.jp/dp/B01NBP5UXR)のまとめ。参考:[オリジナル文献](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)の[全文](https://archive.org/details/indianclubshowto00lemaiala/page/48/mode/2up)と[ルメール法の解説動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF)と[インディアンクラブの模範動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)。
 
 ## フロントサークル FC
 - 1 - FC右
