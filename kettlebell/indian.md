@@ -1,6 +1,6 @@
 # ルメール法
 
-![インディアンクラブとケトルベル](indian.jpg)
+![インディアンクラブとケトルベル](./indian.jpg)
 
 [インディアンクラブ](https://en.wikipedia.org/wiki/Indian_club)のルメール法 ([Lemaire, 1889](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)) のまとめ。
 
