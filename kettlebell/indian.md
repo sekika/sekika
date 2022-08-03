@@ -8,6 +8,7 @@
 - [Paul Taras Wolkowinski's channel](https://www.youtube.com/c/PaulTarasWolkowinski)
 - [How to use Indian clubs](https://www.nourishingmoves.com/nourishing-moves/2018/2/5/indian-clubs-how-to-use-them) by Stuart @ Nourishing Moves
 - [Beginner Indian Club Workout](https://youtu.be/w2c2KNs4npk) by Coach Vaughn
+- [Pain free shoulders with Indian clubs](https://heroicsport.com/2022/05/30/pain-free-shoulders/?v=24d22e03afb2) by Heroic Sport
 - [Top 10 Indian Club Exercises](https://www.onnit.com/academy/top-10-indian-club-exercises/) by Mark Smith
 
 ## ルメール法
