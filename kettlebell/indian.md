@@ -7,6 +7,7 @@
 持っているクラブ
 
 - [Ultimate Body Press](https://www.amazon.co.jp/dp/B007AQ4G70) 2ポンド (900g)、18インチ (46cm)
+- [Pahlavandle](https://heroicsport.com/product/pahlavandle-heavy-handles-pack/) (注文中)
 - 参考: [インディアンクラブの重さと長さについて](https://www.indianclubs.com.au/indian-clubs/indian-clubs-tutorials/001-which-size-indian-clubs-should-i-buy-first/)
 
 ## 動画
