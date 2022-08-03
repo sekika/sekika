@@ -106,3 +106,4 @@
 - Swing
 - [Swipe](https://youtu.be/jxPOHolgDJ8)
 - [Moulinet wrist circles](https://youtu.be/CJe9cJMhIvs)
+- [Swipe with wrist circles](https://youtu.be/qHwU6Ebu51I)
