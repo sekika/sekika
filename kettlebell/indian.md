@@ -43,8 +43,8 @@
 - 8 - FC2BC2左
 - 47 - FC逆2BC逆2右
 - 48 - FC逆2BC逆2左
-- 9 - FCBC左右 = [Outward heartshaped swing](https://youtu.be/d42WerJ6fRU)
-- 49 - FC逆BC逆左右 = [Inward heartshaped swing](https://youtu.be/ZczMbzW1Uh0)
+- 9 - FCBC左右 = [Outward heartshaped swing](https://youtu.be/d42WerJ6fRU), [Outside mill](https://youtu.be/lAbIuSjj-dY)
+- 49 - FC逆BC逆左右 = [Inward heartshaped swing](https://youtu.be/ZczMbzW1Uh0), [Inside mill](https://youtu.be/lAbIuSjj-dY)
 - 10 - FC2BC2左右
 - 50 - FC2逆BC2逆左右
 - 11 - FC右BC左、FC左BC右 = [Outward alternate heartshapes](https://youtu.be/z9aZu76uRE4)
