@@ -41,24 +41,24 @@
 - 8 - FC2BC2左
 - 47 - FC逆2BC逆2右
 - 48 - FC逆2BC逆2左
-- 9 - FCBC左右 = [outward heartshaped swing](https://youtu.be/d42WerJ6fRU)
-- 49 - FC逆BC逆左右
+- 9 - FCBC左右 = [Outward heartshaped swing](https://youtu.be/d42WerJ6fRU)
+- 49 - FC逆BC逆左右 = [Inward heartshaped swing](https://youtu.be/ZczMbzW1Uh0)
 - 10 - FC2BC2左右
 - 50 - FC2逆BC2逆左右
-- 11 - FC右BC左、FC左BC右
-- 51 - FC逆右BC逆左、FC逆左BC逆右
+- 11 - FC右BC左、FC左BC右 = [Outward alternate heartshapes](https://youtu.be/z9aZu76uRE4)
+- 51 - FC逆右BC逆左、FC逆左BC逆右 = [Intward alternate heartshapes](https://youtu.be/ssce2C4Ikuo)
 - 12 - FC2右BC2左、FC2左BC2右
 - 52 - FC逆2右BC逆2左、FC逆2左BC逆2右
 - 13 - FC左右、FC右BC左、FC左右、FC左BC右
 - 53 - FC逆左右、FC逆右BC逆左、FC逆左右、FC逆左BC逆右
 - 14 - FC2左右、FC2右BC左、FC2左右、FC2左BC右
 - 54 - FC逆2左右、FC逆2右BC逆左、FC逆2左右、FC逆2左BC逆右
-- 83 - FC右順左逆、BC右順左逆
+- 83 - FC右順左逆、BC右順左逆 = [Parallel heartshapes right](https://youtu.be/jPAydnM6SAg)
 - 84 - FC右順左逆2、BC右順左逆2
-- 85 - FC左順右逆、BC左順右逆
+- 85 - FC左順右逆、BC左順右逆 = [Parallel heartshapes left](https://youtu.be/L6kUZr5OFEs)
 - 86 - FC左順右逆2、BC左順右逆2
-- 103 - FC左逆・右順、BC左逆・右順（ずれ）
-- 104 - FC右逆・左順、BC右逆・左順（ずれ）
+- 103 - FC左逆・右順、BC左逆・右順（ずれ） = [Windmill to the right](https://youtu.be/XOYuWx-EA0U)
+- 104 - FC右逆・左順、BC右逆・左順（ずれ） = [Windmill to the left](https://youtu.be/Sbg8zpSX440)
 - 111 - FC逆左BC右
 - 112 - FC逆右BC左
 - 113 - FC右BC逆左
