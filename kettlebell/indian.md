@@ -59,7 +59,7 @@
 - 84 - FC右順左逆2、BC右順左逆2
 - 85 - FC左順右逆、BC左順右逆 = [Parallel heartshapes left](https://youtu.be/L6kUZr5OFEs)
 - 86 - FC左順右逆2、BC左順右逆2
-- 103 - FC左逆・右順、BC左逆・右順（ずれ） = [Windmill to the right](https://youtu.be/XOYuWx-EA0U)
+- 103 - FC左逆・右順、BC左逆・右順（ずれ） = [Windmill to the right](https://youtu.be/XOYuWx-EA0U), [Windmill](https://youtu.be/L5SMo5H1Fmo)
 - 104 - FC右逆・左順、BC右逆・左順（ずれ） = [Windmill to the left](https://youtu.be/Sbg8zpSX440)
 - 111 - FC逆左BC右
 - 112 - FC逆右BC左
