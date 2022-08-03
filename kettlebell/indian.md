@@ -6,7 +6,7 @@
 
 ## 動画
 - [重さと長さ](https://www.indianclubs.com.au/indian-clubs/indian-clubs-tutorials/001-which-size-indian-clubs-should-i-buy-first/)
-- [Indian Clubs Video Blog](https://www.indianclubs.com.au/indian-clubs/indian-clubs-video-blog/) and [YouTube channel](https://www.youtube.com/c/PaulTarasWolkowinski) by Paul Taras Wolkowinski
+- [Indian Clubs Video Blog](https://www.indianclubs.com.au/indian-clubs/indian-clubs-video-blog/) and [YouTube channel](https://www.youtube.com/c/PaulTarasWolkowinski) by Paul Taras Wolkowinski @ IndianClubs.com.au
 - [How to use Indian clubs](https://www.nourishingmoves.com/nourishing-moves/2018/2/5/indian-clubs-how-to-use-them) by Stuart @ Nourishing Moves
 - [Beginner Indian Club Workout](https://youtu.be/w2c2KNs4npk) by Coach Vaughn
 - [Indian clubs Blog](https://heroicsport.com/indian-clubs-blog/) by Heroic Sport
