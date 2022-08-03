@@ -16,7 +16,7 @@
 
 - [原著全文](https://archive.org/details/indianclubshowto00lemaiala/)
 - [Kindle 再版](https://www.amazon.co.jp/dp/B01NBP5UXR)
-- [ルメール法の解説動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF)
+- [解説動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF) by Emma
 
 ### フロントサークル FC
 - 1 - FC右
