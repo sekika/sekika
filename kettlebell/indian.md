@@ -5,8 +5,9 @@
 <img src="indian.jpg" width="200">
 
 ## 動画
-
 - [Paul Taras Wolkowinski](https://www.youtube.com/c/PaulTarasWolkowinski)
+- [Beginner Indian Club Workout](https://youtu.be/w2c2KNs4npk) by Coach Vaughn
+- [Top 10 Indian Club Exercises](https://www.onnit.com/academy/top-10-indian-club-exercises/) by Mark Smith
 
 ## ルメール法
 
