@@ -5,7 +5,7 @@
 <img src="indian.jpg" width="200">
 
 ## 動画
-- [Paul Taras Wolkowinski's channel](https://www.youtube.com/c/PaulTarasWolkowinski)
+- [Indian Clubs Video Blog](https://www.indianclubs.com.au/indian-clubs/indian-clubs-video-blog/) and [YouTube channel](https://www.youtube.com/c/PaulTarasWolkowinski) by Paul Taras Wolkowinski
 - [How to use Indian clubs](https://www.nourishingmoves.com/nourishing-moves/2018/2/5/indian-clubs-how-to-use-them) by Stuart @ Nourishing Moves
 - [Beginner Indian Club Workout](https://youtu.be/w2c2KNs4npk) by Coach Vaughn
 - [Indian clubs Blog](https://heroicsport.com/indian-clubs-blog/) by Heroic Sport
