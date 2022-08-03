@@ -104,7 +104,7 @@
 - 60 - FC逆2SW逆2BC逆2左
 
 ## ルメール法以外
-- Swing
+- [Swing](https://youtu.be/SIsim9RLp1g)
 - [Swipe](https://youtu.be/jxPOHolgDJ8)
 - [Moulinet wrist circles](https://youtu.be/CJe9cJMhIvs)
 - [Swipe with wrist circles](https://youtu.be/qHwU6Ebu51I)
