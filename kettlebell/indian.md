@@ -7,7 +7,7 @@
 持っているクラブ
 
 - Ultimate Body Press 2ポンド (900g)、18インチ (46cm)
-- 参考: [重さと長さ](https://www.indianclubs.com.au/indian-clubs/indian-clubs-tutorials/001-which-size-indian-clubs-should-i-buy-first/)
+- 参考: [インディアンクラブの重さと長さについて](https://www.indianclubs.com.au/indian-clubs/indian-clubs-tutorials/001-which-size-indian-clubs-should-i-buy-first/)
 
 ## 動画
 - [Indian Clubs Video Blog](https://www.indianclubs.com.au/indian-clubs/indian-clubs-video-blog/) and [YouTube channel](https://www.youtube.com/c/PaulTarasWolkowinski) by Paul Taras Wolkowinski @ IndianClubs.com.au
