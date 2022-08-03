@@ -17,6 +17,9 @@
 - [Indian clubs Blog](https://heroicsport.com/indian-clubs-blog/) by Heroic Sport
 - [Top 10 Indian Club Exercises](https://www.onnit.com/academy/top-10-indian-club-exercises/) by Mark Smith
 
+## 音
+- [リズム](https://paultaraswolkowinski.hearnow.com/)
+
 ## ルメール法
 
 [Lemaire (1889)](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them) に書かれている番号付きのインディアンクラブ運動
