@@ -1,15 +1,22 @@
-# ルメール法
+# インディアンクラブ
 
-[インディアンクラブ](https://en.wikipedia.org/wiki/Indian_club)のルメール法 ([Lemaire, 1889](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them)) のまとめ。
+[インディアンクラブ](https://en.wikipedia.org/wiki/Indian_club)の情報
+
+<img src="indian.jpg" width="200">
+
+## 動画
+
+- [Paul Taras Wolkowinski](https://www.youtube.com/c/PaulTarasWolkowinski)
+
+## ルメール法
+
+[Lemaire (1889)](https://openlibrary.org/books/OL7206217M/Indian_clubs_and_how_to_use_them) のまとめ。
 
 - [原著全文](https://archive.org/details/indianclubshowto00lemaiala/)
 - [Kindle 再版](https://www.amazon.co.jp/dp/B01NBP5UXR)
 - [ルメール法の解説動画](https://youtube.com/playlist?list=PL5jvmrhm1ZVZJXR7kfl760dicnM4WyQqF)
-- [参考動画](https://youtube.com/playlist?list=PLdShU9ne64kztNs5SXakPsXZqI8YaqBwA)
 
-<img src="indian.jpg" width="200">
-
-## フロントサークル FC
+### フロントサークル FC
 - 1 - FC右
 - 2 - FC左
 - 41 - FC逆右
@@ -21,7 +28,7 @@
 - 81 - FC右順左逆
 - 82 - FC左順右逆
 
-## バックサークル BC
+### バックサークル BC
 - BC右
 - BC左
 - BC逆右
@@ -63,7 +70,7 @@
 - 119 - FC右BC逆左、BC右BC逆左
 - 120 - FC左BC逆右、BC左BC逆右
 
-## フロントリストサークル FW
+### フロントリストサークル FW
 - 21 - FW右
 - 22 - FW左
 - 61 - FW逆右
