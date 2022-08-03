@@ -108,3 +108,5 @@
 - [Swipe](https://youtu.be/jxPOHolgDJ8)
 - [Moulinet wrist circles](https://youtu.be/CJe9cJMhIvs)
 - [Swipe with wrist circles](https://youtu.be/qHwU6Ebu51I)
+- Kehoe (1886) "[The Indian club exercise](https://openlibrary.org/books/OL17998405M/The_Indian_club_exercise)"
+- [Moulinet + Back circle](https://youtu.be/-93Ul85Hoq4)
