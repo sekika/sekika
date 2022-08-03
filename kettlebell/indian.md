@@ -105,3 +105,4 @@
 ## ルメール法以外
 - Swing
 - Swipe
+- [Moulinet wrist circles](https://youtu.be/CJe9cJMhIvs)
