@@ -41,7 +41,7 @@
 - 8 - FC2BC2左
 - 47 - FC逆2BC逆2右
 - 48 - FC逆2BC逆2左
-- 9 - FCBC左右 = [outward heartshape](https://youtu.be/d42WerJ6fRU)
+- 9 - FCBC左右 = [outward heartshapeed swing](https://youtu.be/d42WerJ6fRU)
 - 49 - FC逆BC逆左右
 - 10 - FC2BC2左右
 - 50 - FC2逆BC2逆左右
