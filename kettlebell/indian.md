@@ -4,10 +4,10 @@
 
 <img src="indian.jpg" width="200">
 
-持っているクラブ
+写真のクラブ
 
 - [Ultimate Body Press](https://www.amazon.co.jp/dp/B007AQ4G70) 2ポンド (900g)、18インチ (46cm)
-- [Pahlavandle](https://heroicsport.com/product/pahlavandle-heavy-handles-pack/) (注文中)　([レビュー記事](https://www.indianclubs.com.au/indian-clubs/indian-clubs-tutorials/pahlavandle-review/))
+- [Pahlavandle](https://heroicsport.com/product/pahlavandle-heavy-handles-pack/) ([レビュー記事](https://www.indianclubs.com.au/indian-clubs/indian-clubs-tutorials/pahlavandle-review/))
 - 参考: [インディアンクラブの重さと長さについて](https://www.indianclubs.com.au/indian-clubs/indian-clubs-tutorials/001-which-size-indian-clubs-should-i-buy-first/)
 
 ## 動画
