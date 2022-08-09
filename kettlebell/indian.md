@@ -111,6 +111,18 @@
 - 20 - FC2BC2SW2左
 - 59 - FC逆2SW逆2BC逆2右
 - 60 - FC逆2SW逆2BC逆2左
+- 27 - FCFWBCSW右
+- 28 - FCFWBCSW左
+- 67 - FC逆SW逆BC逆FW逆右
+- 68 - FC逆SW逆BC逆FW逆左
+- 29 - FC2FW2BC2SW2右
+- 30 - FC2FW2BC2SW2左
+- 69 - FC逆2SW逆2BC逆2FW逆2右
+- 70 - FC逆2SW逆2BC逆2FW逆2左
+- 31 - SW右FW左
+- 32 - SW左FW右
+- 71 - SW逆右FW逆左
+- 72 - SW逆左FW逆右
 
 ## ルメール法以外
 - [Swing](https://youtu.be/SIsim9RLp1g)
