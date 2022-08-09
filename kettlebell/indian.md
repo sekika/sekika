@@ -99,7 +99,7 @@
 - 76 - FC逆右FW逆左、FC逆左FW逆右
 
 ### サイドリストサークル SW
-- 15 - SW右
+- 15 - SW右 = [Straight arm wrist circles](https://www.indianclubs.com.au/indian-clubs/indian-clubs-video-blog/straight-arm-wrist-circles-with-variations/)
 - 16 - SW左
 - 55 - SW逆右
 - 56 - SW逆左
