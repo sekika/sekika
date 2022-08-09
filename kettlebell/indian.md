@@ -31,8 +31,8 @@
 - 2 - FC左
 - 41 - FC逆右
 - 42 - FC逆左
-- 3 - FC左右同時
-- 43 - FC逆左右同時
+- 3 - FC左右 - [Double front circle](https://youtu.be/YAL9kA7cseo)
+- 43 - FC逆左右
 - 4 - FC左右ずれ
 - 44 - FC逆左右ずれ
 - 81 - FC右順左逆
