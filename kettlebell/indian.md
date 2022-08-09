@@ -139,6 +139,7 @@
 - 99 - FC右順左逆2、SW逆左FW右2、BC右順左逆2、SW右FW逆左2
 - 101 - FC左順右逆、SW逆右FW左、BC左順右逆、FW逆右SW左
 - 102 - FC左順右逆2、SW逆右FW左2、BC左順右逆2、FW逆右SW左2
+- 33-40, 73-80, 105-110
 
 ## ルメール法以外
 - [Swing](https://youtu.be/SIsim9RLp1g)
