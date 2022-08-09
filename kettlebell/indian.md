@@ -131,6 +131,10 @@
 - 92 - FC右順左逆2、BC右順左逆2、SW右FW逆左2
 - 93 - FC左順右逆、BC左順右逆、FW逆右SW左
 - 94 - FC左順右逆2、BC左順右逆2、FW逆右SW左2
+- 95 - FC右順左逆、SW逆左FW右、BC右順左逆
+- 96 - FC右順左逆2、SW逆左FW右2、BC右順左逆2
+- 97 - FC左順右逆、SW逆右FW左、BC左順右逆
+- 98 - FC左順右逆2、SW逆右FW左2、BC左順右逆2
 
 ## ルメール法以外
 - [Swing](https://youtu.be/SIsim9RLp1g)
