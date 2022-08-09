@@ -37,7 +37,7 @@
 - 44 - FC逆左右ずれ
 - 81 - FC右順左逆 - [Parallel front circle clockwise](https://youtu.be/wWevVh9cqKk)
 - 82 - FC左順右逆
-- [180 Degree turn with parallel circles](https://youtu.be/_sMlLBhFW8Y)
+- 81,82 - [180 Degree turn with parallel circles](https://youtu.be/_sMlLBhFW8Y)
 
 ### バックサークル BC
 - BC右
