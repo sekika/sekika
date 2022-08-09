@@ -123,6 +123,14 @@
 - 32 - SW左FW右
 - 71 - SW逆右FW逆左
 - 72 - SW逆左FW逆右
+- 87 - SW右FW逆左
+- 88 - SW逆右FW左
+- 89 - FW逆右SW左
+- 90 - SW逆左FW右
+- 91 - FC右順左逆、BC右順左逆、SW右FW逆左 腕が少し曲がっても良い
+- 92 - FC右順左逆2、BC右順左逆2、SW右FW逆左2
+- 93 - FC左順右逆、BC左順右逆、FW逆右SW左
+- 94 - FC左順右逆2、BC左順右逆2、FW逆右SW左2
 
 ## ルメール法以外
 - [Swing](https://youtu.be/SIsim9RLp1g)
