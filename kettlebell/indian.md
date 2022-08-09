@@ -95,7 +95,7 @@
 - 26 - FC2FW2BC2左
 - 65 - FC逆2FW逆2BC逆2右
 - 66 - FC逆2FW逆2BC逆2左
-- 36 - FC右FW左、FC左FW右
+- 36 - FC右FW左、FC左FW右 = [Donuts](https://www.indianclubs.com.au/indian-clubs/indian-clubs-video-blog/circle-4-donuts/)
 - 76 - FC逆右FW逆左、FC逆左FW逆右
 
 ### サイドリストサークル SW
