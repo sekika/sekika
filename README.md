@@ -1,4 +1,4 @@
-画像クリックでそのページに飛びます。
+画像クリックでその話題のページに飛びます。
 
 ## 🔭 My free software (自作プログラム)
 I develop programs for work (research on soil physics) and for fun. Here you can find some of my published programs. [Python packages](https://pypi.org/user/seki/) are also released.
