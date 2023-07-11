@@ -10,7 +10,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 
 [15 Puzzle](https://sekika.github.io/2020/01/14/15Puzzle/) ([15パズル](https://sekika.github.io/2020/01/17/15Puzzle/)) - online player of a sliding puzzle. The size of the puzzle can be changed to 3, 8, 15, 24, 35, ...
 
-<a href="https://sekika.github.io/2020/01/14/15Puzzle/"><img src="15.png" width="200"></a>
+<a href="https://sekika.github.io/2020/01/14/15Puzzle/"><img src="15.png" width="150"></a>
 
 ### Soil physics (土壌物理学)
 - [SWRC Fit](https://seki.webmasters.gr.jp/swrc/) - a web interface for fitting [soil water retention curve](https://en.wikipedia.org/wiki/Water_retention_curve) used in [many researches](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gs_ABawAAAAJ&citation_for_view=Gs_ABawAAAAJ:9yKSN-GCB0IC).<br>[<img src="https://seki.webmasters.gr.jp/swrc/img/1015.png" width="180">](https://seki.webmasters.gr.jp/swrc/)
