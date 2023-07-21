@@ -8,7 +8,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 
 * <a href="https://apps.apple.com/app/sudoku-kaidoku/id6450177207?platform=iphone"><img src="appstore.png" width="100" alt="Download app store"></a> for iPhone / iPad / Mac
 * [PDF books](https://sekika.github.io/kaidoku/book)
-* [Command-line version](https://sekika.github.io/kaidoku/)
+* [Command-line](https://sekika.github.io/kaidoku/)
 
 <a href="https://sekika.github.io/kaidoku/sudoku"><img src="https://sekika.github.io/kaidoku/img/3-1.jpg" width="200"></a>
 
