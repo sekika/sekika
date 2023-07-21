@@ -10,7 +10,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 * [PDF books](https://sekika.github.io/kaidoku/book)
 * [Command-line](https://sekika.github.io/kaidoku/)
 
-<a href="https://sekika.github.io/kaidoku/sudoku"><img src="https://sekika.github.io/kaidoku/img/3-1.jpg" width="200"></a>
+<a href="https://sekika.github.io/kaidoku/sudoku"><img src="sudoku.jpg" width="180"></a>
 
 [15 Puzzle](https://sekika.github.io/2020/01/14/15Puzzle/) ([15パズル](https://sekika.github.io/2020/01/17/15Puzzle/)) - online player of a sliding puzzle. The size of the puzzle can be changed to 3, 8, 15, 24, 35, ...
 
