@@ -4,9 +4,11 @@
 I develop programs for work (research on soil physics) and for fun. Here you can find some of my published programs. See also my [Python packages](https://pypi.org/user/seki/) and [App Store profile](https://apps.apple.com/developer/katsutoshi-seki/id1692159497).
 
 ### Puzzle (パズル)
-[Sudoku Kaidoku](https://sekika.github.io/kaidoku/) ([ナンプレ解独](https://sekika.github.io/kaidoku/ja/)) - solve, play and create sudoku puzzles (数独, ナンプレ) with a command-line interface. It shows [logics](https://sekika.github.io/kaidoku/logic) for solving a puzzle. [Online player](https://sekika.github.io/kaidoku/sudoku) and [PDF books](https://sekika.github.io/kaidoku/book) are also available.
+[Sudoku Kaidoku](https://sekika.github.io/kaidoku/sudoku) ([ナンプレ解独](https://sekika.github.io/kaidoku/ja/sudoku)) - Online puzzles with various difficulty. Also available:
 
-<a href="https://apps.apple.com/app/sudoku-kaidoku/id6450177207?platform=iphone"><img src="appstore.png" width="100" alt="Download app store"></a> for iPhone / iPad / Mac
+* <a href="https://apps.apple.com/app/sudoku-kaidoku/id6450177207?platform=iphone"><img src="appstore.png" width="100" alt="Download app store"></a> for iPhone / iPad / Mac
+* [PDF books](https://sekika.github.io/kaidoku/book)
+* [Command-line version](https://sekika.github.io/kaidoku/)
 
 <a href="https://sekika.github.io/kaidoku/sudoku"><img src="https://sekika.github.io/kaidoku/img/3-1.jpg" width="200"></a>
 
