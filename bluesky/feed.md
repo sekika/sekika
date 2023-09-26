@@ -1,4 +1,4 @@
-# Bluesky フィード
+# Bluesky feed
 
 * [GoodFeeds](https://goodfeeds.co/)
 * Feeds are created with [SkyFeed](https://skyfeed.app/)
