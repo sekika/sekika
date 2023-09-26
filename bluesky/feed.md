@@ -2,6 +2,7 @@
 
 * Feeds in this page are maintained by [sekik.bsky.social](https://bsky.app/profile/sekik.bsky.social) with [SkyFeed](https://skyfeed.app/)
 * Find more feeds with [GoodFeeds](https://goodfeeds.co/)
+* [General information about Bluesky feeds](https://blueskyweb.xyz/blog/7-27-2023-custom-feeds) / [日本語](https://dev.classmethod.jp/articles/custom-feed-on-bluesky/)
 
 ## [将棋](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaal4wgo4xbvu)
 
