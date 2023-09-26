@@ -1,7 +1,7 @@
-# Bluesky feed
+# Bluesky feeds
 
-* [GoodFeeds](https://goodfeeds.co/)
-* Feeds are created with [SkyFeed](https://skyfeed.app/)
+* Feeds in this page are maintained by [sekik.bsky.social](https://bsky.app/profile/sekik.bsky.social) with [SkyFeed](https://skyfeed.app/)
+* Find more feeds with [GoodFeeds](https://goodfeeds.co/)
 
 ## [将棋](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaal4wgo4xbvu)
 
