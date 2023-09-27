@@ -15,7 +15,7 @@
 ## [Hydrology](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaampf7bhqw5q)
 
 * 7 days
-* RegEx for Post text and image alt text: #hydrology|hydrology|hydrological|hydrologist|hydrogeology|hydrometeorology|hydrogeologist|soil moisture|soil water|aquifer|water cycle|groundwater|water table|streamflow|hydrograph|catchment|water pollution|vadose|saturated soil|soil science
+* RegEx for Post text and image alt text: #hydrology|hydrology|hydrological|hydrologist|hydrogeology|hydrometeorology|hydrogeologist|soil moisture|soil water|aquifer|water cycle|groundwater|water table|streamflow|hydrograph|catchment|water pollution|vadose|saturated soil
 * Remove if Language = Japanese
 * Sort by Creation date (decending)
 
