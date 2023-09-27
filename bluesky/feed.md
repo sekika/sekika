@@ -33,3 +33,11 @@
 * Input Hydrology feed
 * Input [Geophysics](https://bsky.app/profile/did:plc:lyrmsmhhg7vzz4ghj44y5xzq/feed/33fb4f87d25f) feed
 * Sort by Creation date (decending)
+* Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kaetvdy6vc2r)
+
+## [将棋チェス](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaannnlbzuu5a)
+* Input 将棋 feed
+* Input [chess](https://bsky.app/profile/did:plc:g2cguuwba4l6tc2q3f6hvdjj/feed/aaaeldizmv4qs) feed
+* Sort by Creation date (decending)
+* Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kaevf5rvzv2s)
+ 
