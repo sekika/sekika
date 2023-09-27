@@ -4,6 +4,13 @@
 * Feeds in this page are maintained by [sekik.bsky.social](https://bsky.app/profile/sekik.bsky.social) with [SkyFeed](https://skyfeed.app/)
 * Find more feeds with [GoodFeeds](https://goodfeeds.co/)
 
+## [Soil Science]([https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaampf7bhqw5q](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaank5bgvqoty))
+
+* 7 days
+* RegEx for Post text and image alt text: #soilscience|#pedology|#soilhorizons|#soilclassification|#soilsky|#soilchem|#soilchemistry|#soilbiology|#soilecology|#soilphysics|#phyllosilicates|soil science|pedology|soil horizon|soil classification|soil chemistry|soil biology|soil ecology|soil physics|phyllosilicates
+* Sort by Creation date (decending)
+* Pin [a post](https://bsky.app/profile/rivkafidel.bsky.social/post/3kadyadw3h22s)
+
 ## [将棋](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaal4wgo4xbvu)
 
 * 7 days
