@@ -28,6 +28,9 @@
 * Sort by Creation date (decending)
 * Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kaehkpqg5623)
 
+----
+# Integration feeds
+
 ## [Soil Physics](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaannfipjzftu)
 * Input Soil Science feed
 * Input Hydrology feed
