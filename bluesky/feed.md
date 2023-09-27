@@ -19,6 +19,11 @@
 * Remove if Language = Japanese
 * Sort by Creation date (decending)
 
+## [Soil](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaanoica57d7u)
+* Input entire network 7 days
+* RegEx for Post text and image alt text: soil
+* Sort by Creation date (decending)
+
 ## [将棋](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaal4wgo4xbvu)
 
 * Input entire network 7 days
