@@ -26,3 +26,4 @@
 * Invert RegEx for Post text: :[1-9][1-9]|[1-9][1-9][歩]|14金|18金|22金
 * Remove if Language = Chinese
 * Sort by Creation date (decending)
+* Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kaehkpqg5623)
