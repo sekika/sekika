@@ -8,6 +8,7 @@
 
 * 7 days
 * RegEx for Post text: #soilscience|#pedology|#soilhorizons|#soilclassification|#soilsky|#soilchem|#soilchemistry|#soilbiology|#soilecology|#soilphysics|#phyllosilicates|soil science|pedology|soil horizon|soil classification|soil chemistry|soil biology|soil ecology|soil physics|phyllosilicates|soil water|soil texture|soil moisture|surface soil|subsoil
+* Remove if Language = Japanese
 * Sort by Creation date (decending)
 * Pin [a post](https://bsky.app/profile/rivkafidel.bsky.social/post/3kadyadw3h22s)
 
