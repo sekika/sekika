@@ -36,6 +36,13 @@
 ----
 # Integration feeds
 
+## [Environmental Science](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaanuauyti5xa)
+* Input [Earth Scientists](https://bsky.app/profile/did:plc:lpl45lei6abqpvmet5htdbtb/feed/aaakc72k5sgcs) feed
+* Input [What's Ecology](https://bsky.app/profile/did:plc:gwk23pspkzx7ifoxvqvuab5q/feed/aaakgoc6mcrr2) feed
+* Input [Geography (geosky)](https://bsky.app/profile/did:plc:lhxnyveivbrnaqrcpx66p4i6/feed/aaalixkrroruk) feed
+* Sort by Creation date (decending)
+* Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kagh5z237w2s)
+
 ## [Agronomy](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaantbjzg7djy)
 * Input [Plant Biology](https://bsky.app/profile/did:plc:kpmeqsgi52jt2vz2ttaj43nq/feed/aaaeatp4hrxjg)
 * Input Soil Science feed
