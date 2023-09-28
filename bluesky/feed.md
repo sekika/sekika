@@ -41,7 +41,7 @@
 * Input [What's Ecology](https://bsky.app/profile/did:plc:gwk23pspkzx7ifoxvqvuab5q/feed/aaakgoc6mcrr2) feed
 * Input [Geography (geosky)](https://bsky.app/profile/did:plc:lhxnyveivbrnaqrcpx66p4i6/feed/aaalixkrroruk) feed
 * Sort by Creation date (decending)
-* Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kagh5z237w2s)
+* Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kagipv2tfm2a)
 
 ## [Agronomy](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaantbjzg7djy)
 * Input [Plant Biology](https://bsky.app/profile/did:plc:kpmeqsgi52jt2vz2ttaj43nq/feed/aaaeatp4hrxjg)
@@ -61,4 +61,9 @@
 * Input [chess](https://bsky.app/profile/did:plc:g2cguuwba4l6tc2q3f6hvdjj/feed/aaaeldizmv4qs) feed
 * Sort by Creation date (decending)
 * Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kaevf5rvzv2s)
- 
+
+## [日仏](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaanpa3uiz2oo)
+* Input [ja](https://bsky.app/profile/did:plc:kwibnjihi6sfdphwfzlogfwi/feed/jp-cluster) feed
+* Input [Français](https://bsky.app/profile/did:plc:3ymx6k52ttdcfhm6ukb3vkdc/feed/aaapfgedc4ggi)
+* Sort by Creation date (decending)
+
