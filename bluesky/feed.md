@@ -64,6 +64,6 @@
 
 ## [日仏](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaanpa3uiz2oo)
 * Input [ja](https://bsky.app/profile/did:plc:kwibnjihi6sfdphwfzlogfwi/feed/jp-cluster) feed
-* Input [Français](https://bsky.app/profile/did:plc:3ymx6k52ttdcfhm6ukb3vkdc/feed/aaapfgedc4ggi)
+* Input [Français](https://bsky.app/profile/did:plc:3ymx6k52ttdcfhm6ukb3vkdc/feed/aaapfgedc4ggi) feed
 * Sort by Creation date (decending)
 
