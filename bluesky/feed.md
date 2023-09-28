@@ -36,6 +36,12 @@
 ----
 # Integration feeds
 
+## [Agronomy](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaantbjzg7djy)
+* Input [Plant Biology](https://bsky.app/profile/did:plc:kpmeqsgi52jt2vz2ttaj43nq/feed/aaaeatp4hrxjg)
+* Input Soil Science feed
+* Sort by Creation date (decending)
+* Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kagh5z237w2s)
+
 ## [Soil Physics](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaannfipjzftu)
 * Input Soil Science feed
 * Input Hydrology feed
