@@ -27,7 +27,7 @@
 ## [将棋](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaal4wgo4xbvu)
 
 * Input entire network 7 days
-* RegEx for Post text: 将棋|shogi|竜王|順位戦|王位|叡王|王座|棋王|王将戦|棋聖|ABEMAトーナメント|JT杯|朝日杯|銀河戦|奨励会|藤井聡太|飛車|桂馬|香車|千日手|入玉|打歩詰|継ぎ歩|垂れ歩|角換わり|[^0-9][1-9１-９][1-9１-９一二三四五六七八九][玉龍竜飛角馬金銀桂香歩成]
+* RegEx for Post text: 将棋|shogi|竜王|順位戦|王位|叡王|王座|棋王|王将戦|棋聖|ABEMAトーナメント|JT杯|朝日杯|銀河戦|奨励会|藤井聡太|藤井七冠|飛車|桂馬|香車|千日手|入玉|打歩詰|継ぎ歩|垂れ歩|角換わり|[^0-9][1-9１-９][1-9１-９一二三四五六七八九][玉龍竜飛角馬金銀桂香歩成]
 * Invert RegEx for Post text: :[1-9][1-9]|[1-9][1-9][歩]|14金|18金|22金|24金
 * Remove if Language = Chinese
 * Sort by Creation date (decending)
