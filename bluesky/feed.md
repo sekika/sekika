@@ -34,7 +34,7 @@
 * Pin [a post](https://bsky.app/profile/sekik.bsky.social/post/3kaehkpqg5623)
 
 ## [プロ棋士](https://bsky.app/profile/did:plc:ernqnkihzlup6rjajq55newo/feed/aaaa3kex5dlai)
-将棋の[現役プロ棋士](https://www.shogi.or.jp/player/)と[現役女流棋士](https://www.shogi.or.jp/player/lady.html)のフルーネームの言及。ただし将棋フィードに入っている棋士は除く。よく言及される棋士名は将棋フィードに取り込まれる。
+将棋の[現役プロ棋士](https://www.shogi.or.jp/player/)と[現役女流棋士](https://www.shogi.or.jp/player/lady.html)のフルーネームの言及。棋士名取得日はAbout this feedに記載。ただし将棋フィードに入っている棋士は除く。よく言及される棋士名は将棋フィードに取り込まれる。
 
 ----
 # Integration feeds
