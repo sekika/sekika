@@ -48,6 +48,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [pebble @seki](https://pebble.is/seki)
 - [Facebook](https://www.facebook.com/katsutoshi.seki)
 - [Bluesky @sekik.bsky.social](https://bsky.app/profile/sekik.bsky.social) requires sign in ([Feed](bluesky/feed.md))
+- [詰将棋メーカー](https://tsumeshogi.com/users/sekik)
 - Note that SNS accounts with the same name with me may not be my accout if not listed here
 
 ## 📫 How to reach me
