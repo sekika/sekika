@@ -35,7 +35,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [Academic CV](https://researchmap.jp/sekik/) and [most cited papers](https://scholar.google.com/citations?user=Gs_ABawAAAAJ)
 - [Photos with Moomin family<br><img src="moomin.jpg" width="150">](https://seki.webmasters.gr.jp/photo/moomin2011/)
 - [メモ帳](https://sekika.github.io)
-- [ケトルベルトレーニングのログ<br>![ケトルベル](https://pbs.twimg.com/profile_banners/3842711/1643460988/300x100)](kettlebell/Readme.md)
+- [ケトルベルトレーニング<br>![ケトルベル](https://pbs.twimg.com/profile_banners/3842711/1643460988/300x100)](kettlebell/Readme.md)
 - [詰将棋のページ](https://seki.webmasters.gr.jp/shogi/tume/index.html) 1996年5月30日開設
 
 [![3手詰め](https://shogipic.jp/v/11b3.png)](https://seki.webmasters.gr.jp/shogi/tume/tume-a3.htm)
