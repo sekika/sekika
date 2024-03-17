@@ -30,7 +30,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 ### その他
 - [JavaScript の小物](https://sekika.github.io/tags/javascript/index.html)
 - [Python の小物](https://sekika.github.io/tags/python/index.html)
-- [Rust](https://crates.io/users/sekika)
+- [Rust のプログラム](https://sekika.github.io/tags/rust/)
 
 ## 🌱 Non-IT stuffs
 - [Academic CV](https://researchmap.jp/sekik/) and [most cited papers](https://scholar.google.com/citations?user=Gs_ABawAAAAJ)
