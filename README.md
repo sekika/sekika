@@ -6,7 +6,8 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 ### Puzzle (パズル)
 [Sudoku Kaidoku](https://sekika.github.io/kaidoku/sudoku) ([ナンプレ解独](https://sekika.github.io/kaidoku/ja/sudoku)) - Online puzzles with various difficulty. Also available:
 
-* <a href="https://apps.apple.com/app/sudoku-kaidoku/id6450177207?platform=iphone"><img src="appstore.png" width="100" alt="Download app store"></a> for iPhone / iPad / Mac
+* <a href="https://apps.apple.com/app/sudoku-kaidoku/id6450177207?platform=iphone"><img src="appstore.png" alt="Download on the App Store" 
+ style="border-radius: 13px; width: 135px; background-size: contain; margin:6px;"></a> for iPhone / iPad / Mac
 * [PDF books](https://sekika.github.io/kaidoku/book)
 * [Command-line](https://sekika.github.io/kaidoku/)
 
