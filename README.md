@@ -4,7 +4,7 @@
 I develop programs for work (research on soil physics) and for fun. Here you can find some of my published programs. See also my [Python packages](https://pypi.org/user/seki/), [Rust crates](https://crates.io/users/sekika) and [App Store apps](https://apps.apple.com/developer/katsutoshi-seki/id1692159497).
 
 ### Puzzle (パズル)
-[Sudoku Kaidoku](https://sekika.github.io/kaidoku/sudoku) ([ナンプレ解独](https://sekika.github.io/kaidoku/ja/sudoku)) - Online puzzles with various difficulty. Also available:
+[Sudoku Kaidoku](https://sekika.github.io/kaidoku/sudoku/) - Online puzzles with various difficulty. Also available:
 
 * <a href="https://apps.apple.com/app/sudoku-kaidoku/id6450177207?platform=iphone"><img src="appstore.png" alt="Download on the App Store" 
  style="border-radius: 13px; width: 135px; background-size: contain; margin:6px;"></a> for iPhone / iPad / Mac
