@@ -11,6 +11,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
  style="border-radius: 13px; width: 135px; background-size: contain; margin:6px;"></a>
 * [PDF books](https://sekika.github.io/kaidoku/book)
 * [Command-line](https://sekika.github.io/kaidoku/)
+* [Quiz posts](https://twilog.togetter.com/seki/search?word=%23sudoku)
 
 <a href="https://sekika.github.io/kaidoku/sudoku"><img src="sudoku.jpg" width="180"></a>
 
