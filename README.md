@@ -28,7 +28,8 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [discfit](https://github.com/sekika/discfit) - read disc permeameter data in the field and calculates hydraulic parameters of the soil.
 - Recommendation - [お薦め](https://www.jstage.jst.go.jp/article/jssoilphysics/148/0/148_45/_article/-char/ja/)していただきました。
 
-### Security (セキュリティ)
+### Utility
+- [multiai](https://sekika.github.io/multiai/) - Python library and command-line tool designed to interact with text-based generative AI models
 - [Passme](https://github.com/sekika/passme/blob/master/doc/README.rst) - a password management tool with command line or web browzer. [Tutorial movie](https://youtu.be/6DXPhyYhYsE).
 
 ### その他
