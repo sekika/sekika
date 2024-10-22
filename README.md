@@ -28,6 +28,10 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 
 <a href="https://sekika.github.io/2020/01/14/15Puzzle/"><img src="15.png" width="150"></a>
 
+### Math
+- Statistics: [二項分布とポアソン分布](https://sekika.github.io/2020/11/20/Binomial/) / [ポアソン分布と正規分布](https://sekika.github.io/2020/01/04/Poisson/)
+- [compute-pi](https://crates.io/crates/compute-pi) - compute 1 million digits of pi in a few seconds (Rust)
+
 ### Utility
 - [findstring](https://pypi.org/project/findstring/) - search for a string in files recursively.</li>
 - [multiai](https://sekika.github.io/multiai/) - Python library and command-line tool designed to interact with text-based generative AI models.
