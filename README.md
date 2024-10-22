@@ -1,5 +1,3 @@
-画像クリックでその話題のページに飛びます。
-
 ## 🔭 My self-made software (自作プログラム)
 I develop programs for work (research on soil physics) and for fun. Here you can find some of my published programs. See also my [Python packages](https://pypi.org/user/seki/), [Rust crates](https://crates.io/users/sekika), and mobile apps at [App Store](https://apps.apple.com/developer/katsutoshi-seki/id1692159497) and [Google Play](https://play.google.com/store/apps/dev?id=9194226144632155310).
 
