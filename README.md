@@ -31,7 +31,8 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [compute-pi](https://crates.io/crates/compute-pi) - compute 1 million digits of &pi; in a few seconds (Rust)
 
 ### Utility
-- [findstring](https://pypi.org/project/findstring/) - search for a string in files recursively.</li>
+- [pdfgridcat](https://pypi.org/project/pdfgridcat/) - arrange multiple PDF pages into a grid without scaling or margins.
+- [findstring](https://pypi.org/project/findstring/) - search for a string in files recursively.
 - [multiai](https://sekika.github.io/multiai/) - Python library and command-line tool designed to interact with text-based generative AI models.
 - [passme](https://github.com/sekika/passme/blob/master/doc/README.rst) - a password management tool with command line or web browzer. [Tutorial movie](https://youtu.be/6DXPhyYhYsE).
 
