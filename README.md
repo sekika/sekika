@@ -10,7 +10,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [discfit](https://github.com/sekika/discfit) - read disc permeameter data in the field and calculates hydraulic parameters of the soil.
 - Recommendation - [お薦め](https://www.jstage.jst.go.jp/article/jssoilphysics/148/0/148_45/_article/-char/ja/)していただきました。
 
-### Puzzle (パズル)
+### Puzzle / Game (パズル / ゲーム)
 [Sudoku Kaidoku](https://sekika.github.io/kaidoku/sudoku/) - Online puzzles with various difficulty. Also available:
 
 * <a href="https://apps.apple.com/app/sudoku-kaidoku/id6450177207"><img src="appstore.png" alt="Download on the App Store" 
@@ -21,6 +21,10 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 * [Sudoku quiz](https://twilog.togetter.com/seki/search?word=%23sudoku)
 
 <a href="https://sekika.github.io/kaidoku/sudoku"><img src="sudoku.jpg" width="180"></a>
+
+[Dodgem](https://sekika.github.io/dodgem/) ([ドッジェム](https://sekika.github.io/dodgem/ja/)) - abstract strategy game
+
+<a href="https://sekika.github.io/dodgem/"><img src="https://sekika.github.io/file/dodgem/initial4.jpg" width="180"></a>
 
 [15 Puzzle](https://sekika.github.io/2020/01/14/15Puzzle/) ([15パズル](https://sekika.github.io/2020/01/17/15Puzzle/)) - online player of a sliding puzzle. The size of the puzzle can be changed to 3, 8, 15, 24, 35, ...
 
