@@ -35,6 +35,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [compute-pi](https://crates.io/crates/compute-pi) - compute 1 million digits of &pi; in a few seconds (Rust)
 
 ### Utility
+- [paperfig](https://sekika.github.io/paperfig/) - JSON-driven orchestration for building and concatenating paper figures.
 - [pdfgridcat](https://pypi.org/project/pdfgridcat/) - arrange multiple PDF pages into a grid without scaling or margins.
 - [findstring](https://pypi.org/project/findstring/) - search for a string in files recursively.
 - [multiai](https://sekika.github.io/multiai/) - Python library and command-line tool designed to interact with text-based generative AI models.
