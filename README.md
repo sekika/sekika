@@ -45,6 +45,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [JavaScript の小物](https://sekika.github.io/tags/javascript/index.html)
 - [Python の小物](https://sekika.github.io/tags/python/index.html)
 - [Rust のプログラム](https://sekika.github.io/tags/rust/)
+- [Go の記事](https://sekika.github.io/tags/go/index.html)
 
 ## 🌱 Non-IT stuffs
 - [Academic CV](https://researchmap.jp/sekik/) and [most cited papers](https://scholar.google.com/citations?user=Gs_ABawAAAAJ)
