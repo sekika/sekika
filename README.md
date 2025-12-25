@@ -40,7 +40,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [pdfgridcat](https://pypi.org/project/pdfgridcat/) - arrange multiple PDF pages into a grid without scaling or margins.
 - [findstring](https://pypi.org/project/findstring/) - search for a string in files recursively.
 - [multiai](https://sekika.github.io/multiai/) - Python library and command-line tool designed to interact with text-based generative AI models.
-- [passme](https://github.com/sekika/passme/blob/master/doc/README.rst) - a password management tool with command line or web browzer. [Tutorial movie](https://youtu.be/6DXPhyYhYsE).
+- [passme](https://sekika.github.io/passme/) - a password management tool with command line or web browzer. [Tutorial movie](https://youtu.be/6DXPhyYhYsE).
 - [Link Checker for Go](https://pkg.go.dev/github.com/sekika/linkchecker) - Concurrently checks links in URLs or local HTML files, controlling request intervals to the same host to prevent overload.
 
 ### その他
