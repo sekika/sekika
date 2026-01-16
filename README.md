@@ -35,6 +35,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [compute-pi](https://crates.io/crates/compute-pi) - compute 1 million digits of &pi; in a few seconds (Rust)
 
 ### Utility
+- [slidemovie](https://sekika.github.io/slidemovie/) - Markdown and PowerPoint to narration video generator
 - [md-llm-lang-reader](https://sekika.github.io/2025/12/19/langreader/) - Generate language-learning HTML readers (with sentence-level LLM translations and TTS) from Markdown.
 - [paperfig](https://sekika.github.io/paperfig/) - JSON-driven orchestration for building and concatenating paper figures.
 - [pdfgridcat](https://pypi.org/project/pdfgridcat/) - arrange multiple PDF pages into a grid without scaling or margins.
