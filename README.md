@@ -31,7 +31,8 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 <a href="https://sekika.github.io/2020/01/14/15Puzzle/"><img src="15.png" width="150"></a>
 
 ### Math
-- Statistics: [二項分布とポアソン分布](https://sekika.github.io/2020/11/20/Binomial/) / [ポアソン分布と正規分布](https://sekika.github.io/2020/01/04/Poisson/)
+- [二項分布とポアソン分布](https://sekika.github.io/2020/11/20/Binomial/) / [ポアソン分布と正規分布](https://sekika.github.io/2020/01/04/Poisson/)
+- [正規分布の必然性に関する考察](https://researchmap.jp/sekik/published_papers/48975147/attachment_file.pdf)の付録プログラム
 - [compute-pi](https://crates.io/crates/compute-pi) - compute 1 million digits of &pi; in a few seconds (Rust)
 
 ### Utility
