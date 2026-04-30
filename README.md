@@ -64,7 +64,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 
 - [父の遺言](nakayoshi.md)  
 
-[<img src="https://raw.githubusercontent.com/sekika/sekika/main/bones1.gif" width="150">](nakayoshi.md)
+[<img src="https://raw.githubusercontent.com/sekika/sekika/main/bones1.gif" width="200">](nakayoshi.md)
   
 ## 👯 SNS accounts
 - [Twitter @seki](https://twitter.com/seki)
