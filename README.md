@@ -58,10 +58,11 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [メモ帳](https://sekika.github.io)
 - [ケトルベルトレーニング<br>![ケトルベル](https://pbs.twimg.com/profile_banners/3842711/1643460988/300x100)](kettlebell/Readme.md)
 - [ゲームのページ](https://seki.webmasters.gr.jp/) 自作詰将棋等、1996年開設
-- [父の遺言](https://seki.webmasters.gr.jp/eishiro/final/jinsei/nakayosi.htm)
 
 [![3手詰め](https://shogipic.jp/v/11b3.png)](https://seki.webmasters.gr.jp/shogi/tume/tume-a3.htm)
 [![3手詰め](https://shogipic.jp/v/FfT.png)](https://seki.webmasters.gr.jp/shogi/tume/tume-a4.htm)
+
+- [父の遺言<br><img src="https://raw.githubusercontent.com/sekika/sekika/main/bones1.gif" width="150">](nakayoshi.md)
 
 ## 👯 SNS accounts
 - [Twitter @seki](https://twitter.com/seki)
