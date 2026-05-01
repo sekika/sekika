@@ -67,7 +67,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 [<img src="https://raw.githubusercontent.com/sekika/sekika/main/bones1.gif" width="200">](nakayoshi.md)
   
 ## 👯 SNS accounts
-- [Twitter @seki](https://twitter.com/seki)
+- [Twitter @seki](https://twitter.com/seki) - [Favotter](https://x.com/search?q=from%3Aseki%20min_faves%3A10&src=typed_query&f=live) / [Twilog](https://twilog.togetter.com/seki)
 - [Linkedin @sekik](https://www.linkedin.com/in/sekik/)
 - [YouTube](https://www.youtube.com/channel/UCcrzhK0Uy9b4tWf1uhbWN-Q)
 - [pebble @seki](https://pebble.is/seki)
