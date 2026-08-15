@@ -44,6 +44,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 - [multiai](https://sekika.github.io/multiai/) - Python library and command-line tool designed to interact with text-based generative AI models.
 - [passme](https://sekika.github.io/passme/) - a password management tool with command line or web browzer.
 - [Link Checker for Go](https://pkg.go.dev/github.com/sekika/linkchecker) - Concurrently checks links in URLs or local HTML files, controlling request intervals to the same host to prevent overload.
+- [chatlog](https://sekika.github.io/chatlog/) - Slack / Discord のチャンネルログを取得して JSON に蓄積し、ブラウザで閲覧するツール
 
 ### その他
 - [JavaScript の小物](https://sekika.github.io/tags/javascript/index.html)
