@@ -37,12 +37,12 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 
 ### Utility
 - [slidemovie](https://sekika.github.io/slidemovie/) ([スライド動画作成](https://sekika.github.io/slidemovie/ja/)) - Markdown and PowerPoint to narration video generator
+- [passme](https://sekika.github.io/passme/) - a password management tool with command line, [iOS app](https://apps.apple.com/us/app/password-passme/id6830239169), and for web browsers.
 - [md-llm-lang-reader](https://sekika.github.io/2025/12/19/langreader/) - Generate language-learning HTML readers (with sentence-level LLM translations and TTS) from Markdown.
 - [paperfig](https://sekika.github.io/paperfig/) - JSON-driven orchestration for building and concatenating paper figures.
 - [pdfgridcat](https://pypi.org/project/pdfgridcat/) - arrange multiple PDF pages into a grid without scaling or margins.
 - [findstring](https://pypi.org/project/findstring/) - search for a string in files recursively.
 - [multiai](https://sekika.github.io/multiai/) - Python library and command-line tool designed to interact with text-based generative AI models.
-- [passme](https://sekika.github.io/passme/) - a password management tool with command line or web browzer.
 - [Link Checker for Go](https://pkg.go.dev/github.com/sekika/linkchecker) - Concurrently checks links in URLs or local HTML files, controlling request intervals to the same host to prevent overload.
 - [chatlog](https://sekika.github.io/chatlog/) - Slack / Discord のチャンネルログを取得して JSON に蓄積し、ブラウザで閲覧するツール
 
