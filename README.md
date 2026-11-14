@@ -38,7 +38,7 @@ I develop programs for work (research on soil physics) and for fun. Here you can
 ### Utility
 - [OpenSFTP](https://sekika.github.io/opensftp/) ([ファイル管理](https://sekika.github.io/opensftp/ja/)) - macOS app for browsing, transferring, and managing files on servers using your existing OpenSSH configuration.
 - [slidemovie](https://sekika.github.io/slidemovie/) ([スライド動画作成](https://sekika.github.io/slidemovie/ja/)) - Markdown and PowerPoint to narration video generator.
-- [passme](https://sekika.github.io/passme/) - a password management tool with command line, [iOS app](https://apps.apple.com/us/app/password-passme/id6830239169), and for web browsers.
+- [passme](https://sekika.github.io/passme/) ([パスワード生成](https://github.com/sekika/passme/blob/master/README-ja.md))- a password management tool with command line, [iOS app](https://apps.apple.com/us/app/password-passme/id6830239169), and for web browsers.
 - [md-llm-lang-reader](https://sekika.github.io/2025/12/19/langreader/) - Generate language-learning HTML readers (with sentence-level LLM translations and TTS) from Markdown.
 - [paperfig](https://sekika.github.io/paperfig/) - JSON-driven orchestration for building and concatenating paper figures.
 - [pdfgridcat](https://pypi.org/project/pdfgridcat/) - arrange multiple PDF pages into a grid without scaling or margins.
